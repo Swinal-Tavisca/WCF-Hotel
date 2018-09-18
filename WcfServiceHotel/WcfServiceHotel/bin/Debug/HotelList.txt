@@ -1,0 +1,41 @@
+[
+
+{
+
+"HotelId": 101,
+
+"HotelName": "Novotel",
+
+"HotelAddress": "Pune",
+
+"Ratings": 5
+
+},
+
+{
+
+"HotelId": 102,
+
+"HotelName": "Hyatt",
+
+"HotelAddress": "Mumbai",
+
+"Ratings": 5
+
+},
+
+{
+
+"HotelId": 103,
+
+"HotelName": "Cosmos",
+
+"HotelAddress": "Goa",
+
+"Ratings": 2
+
+}
+
+]
+
+
