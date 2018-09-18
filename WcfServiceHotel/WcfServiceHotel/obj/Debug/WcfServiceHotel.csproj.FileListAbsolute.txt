@@ -1,0 +1,8 @@
+C:\Users\swinal\source\repos\WcfServiceHotel\WcfServiceHotel\bin\Debug\WcfServiceHotel.dll.config
+C:\Users\swinal\source\repos\WcfServiceHotel\WcfServiceHotel\bin\Debug\WcfServiceHotel.dll
+C:\Users\swinal\source\repos\WcfServiceHotel\WcfServiceHotel\bin\Debug\WcfServiceHotel.pdb
+C:\Users\swinal\source\repos\WcfServiceHotel\WcfServiceHotel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\swinal\source\repos\WcfServiceHotel\WcfServiceHotel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\swinal\source\repos\WcfServiceHotel\WcfServiceHotel\obj\Debug\WcfServiceHotel.csproj.CoreCompileInputs.cache
+C:\Users\swinal\source\repos\WcfServiceHotel\WcfServiceHotel\obj\Debug\WcfServiceHotel.dll
+C:\Users\swinal\source\repos\WcfServiceHotel\WcfServiceHotel\obj\Debug\WcfServiceHotel.pdb
